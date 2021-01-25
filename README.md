@@ -1,3 +1,3 @@
 # foobar
 
-Challenges completed in Google Foobar. 
+Challenges completed in Google Foobar over August 2020. 
